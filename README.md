@@ -6,7 +6,7 @@ Fine-tuning **Qwen2.5-1.5B** with **Orthogonal Fine-Tuning (OFT)** on the GSM8K 
 
 ```bash
 # Clone repository
-git clone <your-repo-url>
+git clone https://github.com/nsangsiri/oft-qwen-1.git
 cd oft-qwen-1
 
 # Create and activate conda environment
