@@ -1,4 +1,4 @@
-name: oft-qwen-1
+name: oft-qwen
 channels:
   - pytorch
   - nvidia
